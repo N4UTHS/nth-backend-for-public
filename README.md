@@ -13,7 +13,7 @@
 
 ## 시연 영상
 ```
-(유튜브 링크)
+https://youtu.be/AeV2KVPsxs4?si=C4K39odwoKgtgsog
 ```
 
 ## 핵심 기능
