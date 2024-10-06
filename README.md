@@ -16,6 +16,9 @@
 https://youtu.be/AeV2KVPsxs4?si=C4K39odwoKgtgsog
 ```
 
+## 프로젝트 구조
+![프로젝트 구조](https://github.com/user-attachments/assets/95865e30-d121-47ac-bf2c-1062c58ffb7b)
+
 ## 핵심 기능
 - S3에 메인 화면 이미지 업로드 밑 불러오기
 - 자회사 정보 추가 • 수정 • 삭제
