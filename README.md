@@ -17,7 +17,7 @@ https://youtu.be/AeV2KVPsxs4?si=C4K39odwoKgtgsog
 ```
 
 ## 프로젝트 구조도
-![프로젝트 구조](https://github.com/user-attachments/assets/f6a6d6ce-03df-47a0-98f9-3982fabbe6d3)
+![프로젝트 구조](https://github.com/user-attachments/assets/bc1ae8ca-c34c-4b18-a973-e9230055a44a)
 
 ## 핵심 기능
 - S3에 메인 화면 이미지 업로드 밑 불러오기
