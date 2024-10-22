@@ -20,7 +20,7 @@ https://youtu.be/AeV2KVPsxs4?si=C4K39odwoKgtgsog
 ![프로젝트 구조](https://github.com/user-attachments/assets/bc1ae8ca-c34c-4b18-a973-e9230055a44a)
 
 ## 핵심 기능
-- S3에 메인 화면 이미지 업로드 밑 불러오기
+- S3에 메인 화면 이미지 업로드  불러오기
 - 자회사 정보 추가 • 수정 • 삭제
 - 공지사항 작성 • 수정 • 삭제
 - 공지사항 첨부파일 S3 업로드 및 불러오기
