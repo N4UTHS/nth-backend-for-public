@@ -5,7 +5,7 @@ const subsidiarySchema = new mongoose.Schema({
         type: String,
         required: true
     },
-    explain: {
+    introduction: {
         type: String,
         required: true
     }
